@@ -1,5 +1,5 @@
-module github.com/jafarsirojov/stats
+module github.com/jafarsirojov/stats/v2
 
 go 1.15
 
-require github.com/jafarsirojov/bank v0.0.0-20200928161122-70d4d09c4c15
+require github.com/jafarsirojov/bank/v2 v2.0.0
